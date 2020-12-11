@@ -8,7 +8,7 @@ var risulatati = nome + cognome + colorPreferito;
 // nome,cognome,colore
 
 document.getElementById("nome").innerHTML = "ciao" + " " + nome + " " + cognome;
-document.getElementById("cognome").innerHTML ="i tuoi dettagli sono" + risulatati + "19";
+document.getElementById("cognome").innerHTML ="il tuo password generati e :" + risulatati + "19";
 
 
 
